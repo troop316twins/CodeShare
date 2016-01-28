@@ -10,7 +10,7 @@ Overall:
         Outputs to Procurement
         Outputs to 310
         Outputs to 330
-        E-mail outputs
+        E-mail outputs - DON'T EMAIL IF IT IS BLANK!!!
     Input to Primavera
         csv come back from them
 
