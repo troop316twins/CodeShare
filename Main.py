@@ -33,6 +33,31 @@ Update Powerpoint() - > new powerpoint
 
 another line
 
-
 Learn how to generate awesome graphs :)
+
+Locations for Primavera:
+116,85 # Go to activities window
+Down arrowkey
+right arrowkey
+enter
+right # this is if changes.. shouldn't be changes
+enter # this is if change shouldn't be changes
+
+Down Indefinately
+
+go up N number of spaces or use searcy by png (likely not search by ping)
+
+Control + P # bring open print dialog
+enter # accept default
+
+570 39 (location of where I need to click to set the path)
+type "path"
+322 288 # location of filename
+type filename
+693 500 # save location
+waiting.
+alt f4
+864, 563 do this twice because of change of screen.
+
+
     """
