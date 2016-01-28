@@ -2,13 +2,18 @@
 To do:
 Overall:
     Output from Primavera
-            Note which should have been updated?  (Highlight what is in progress?)
+        https://docs.oracle.com/cd/E35157_01/helpmain.htm?toc.htm?print_a_report_batch.htm
+                    Note which should have been updated?  (Highlight what is in progress?)
+        https://docs.oracle.com/cd/E35157_01/helpmain.htm?toc.htm?45050.htm
+
+        Naming function
         Outputs to Procurement
         Outputs to 310
         Outputs to 330
         E-mail outputs
     Input to Primavera
-        NOT AUTOMATED?
+        csv come back from them
+
     Update lists
         Move current outputs to last week
         Print lists to file.
