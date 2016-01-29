@@ -62,4 +62,15 @@ alt f4
 
 Note that Gregg does not go to my schedule (I should ask for his schedule)
 
+Current Reports
+Data for Update: Bulk Materials
+", Eng Review and Prep Teams
+", Hull Planning Work Packages
+", Hull work Packages
+", Outfitting Planning Work Packages
+", Outfitting Work Packages
+", Outfitting Work Packages
+", Transportation Drawings
+
+
     """
