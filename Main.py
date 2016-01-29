@@ -60,4 +60,6 @@ alt f4
 864, 563 do this twice because of change of screen.
 
 
+Note that Gregg does not go to my schedule (I should ask for his schedule)
+
     """
