@@ -75,5 +75,7 @@ Data for Update: Bulk Materials
 
 Transportation Drawing Schedule
 
+Note:  Need some method for generating s-curves from primavera data.  Can I automate this.
+How to pull everything from primavera.  Export and use that?
 
     """
